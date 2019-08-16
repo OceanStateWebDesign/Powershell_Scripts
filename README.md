@@ -1,2 +1,2 @@
-# Bash_Scripts
-My Bash Scripts
+# Powershell_Scripts
+My Powershell Scripts
